@@ -1,4 +1,4 @@
 # Github-practice
 This is my first git repository.
 <br>
-Author: Aditya Singh Thakur
+Author: Aditya Singh 123
